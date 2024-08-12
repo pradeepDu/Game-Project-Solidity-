@@ -1,0 +1,1 @@
+Welcome to the Zombie Apocalypse Game! This is a decentralized game built on the Ethereum blockchain using Solidity and Web3.js. In this game, players can create, customize, and battle zombies in a post-apocalyptic world. The game leverages smart contracts to manage game logic, ensuring transparency, security, and fairness
